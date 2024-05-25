@@ -1,0 +1,51 @@
+,data_ref,id_cliente,sexo,posse_de_veiculo,posse_de_imovel,qtd_filhos,tipo_renda,educacao,estado_civil,tipo_residencia,idade,tempo_emprego,qt_pessoas_residencia,renda
+0,2015-01-01,15056,F,False,True,0,Empresário,Secundário,Solteiro,Casa,26,6.602739726027397,1.0,8060.34
+1,2015-01-01,9968,M,True,True,0,Assalariado,Superior completo,Casado,Casa,28,7.183561643835616,2.0,1852.15
+2,2015-01-01,4312,F,True,True,0,Empresário,Superior completo,Casado,Casa,35,0.8383561643835616,2.0,2253.89
+3,2015-01-01,10639,F,False,True,1,Servidor público,Superior completo,Casado,Casa,30,4.846575342465753,3.0,6600.77
+4,2015-01-01,7064,M,True,False,0,Assalariado,Secundário,Solteiro,Governamental,33,4.293150684931507,1.0,6475.97
+5,2015-01-01,10581,F,False,True,0,Assalariado,Superior completo,Casado,Casa,39,4.345205479452055,2.0,1445.87
+6,2015-01-01,7129,F,False,True,0,Empresário,Superior completo,Viúvo,Casa,55,6.3780821917808215,1.0,1726.03
+7,2015-01-01,9952,F,False,True,0,Empresário,Secundário,Casado,Casa,36,3.104109589041096,2.0,2515.98
+8,2015-01-01,883,F,False,True,0,Assalariado,Secundário,Casado,Casa,50,18.605479452054798,2.0,3420.34
+9,2015-01-01,8070,M,True,True,0,Assalariado,Superior completo,Casado,Casa,60,10.558904109589042,2.0,12939.14
+10,2015-01-01,2221,M,False,False,0,Empresário,Secundário,Casado,Casa,39,2.0876712328767124,2.0,6402.41
+11,2015-01-01,6881,F,False,True,0,Pensionista,Secundário,Casado,Casa,65,,2.0,1685.51
+12,2015-01-01,2448,F,False,True,0,Pensionista,Secundário,Viúvo,Casa,60,,1.0,6343.52
+13,2015-01-01,12517,F,True,False,0,Assalariado,Superior completo,Casado,Casa,41,15.041095890410961,2.0,581.18
+14,2015-01-01,1268,M,True,True,0,Empresário,Superior completo,Casado,Casa,58,4.586301369863014,2.0,25359.65
+15,2015-01-01,7249,M,True,True,1,Assalariado,Secundário,Solteiro,Casa,31,2.043835616438356,2.0,1171.49
+16,2015-01-01,5551,F,False,False,0,Empresário,Secundário,União,Casa,53,8.545205479452052,2.0,3675.33
+17,2015-01-01,6573,F,True,True,0,Servidor público,Secundário,Solteiro,Casa,45,15.82739726027397,1.0,19763.27
+18,2015-01-01,10667,M,True,True,1,Assalariado,Superior completo,Separado,Casa,44,6.934246575342466,2.0,13678.63
+19,2015-01-01,11760,M,False,True,0,Servidor público,Superior completo,Casado,Casa,26,6.1589041095890416,2.0,5287.82
+20,2015-01-01,12200,M,True,True,1,Assalariado,Secundário,Solteiro,Casa,40,20.60821917808219,2.0,26174.03
+21,2015-01-01,698,F,True,True,0,Pensionista,Superior incompleto,Casado,Casa,58,,2.0,1649.37
+22,2015-01-01,11948,F,False,True,0,Pensionista,Secundário,Viúvo,Casa,61,,1.0,4715.57
+23,2015-01-01,11184,F,True,True,0,Pensionista,Secundário,Casado,Casa,59,,2.0,799.18
+24,2015-01-01,1853,M,True,True,1,Empresário,Secundário,Casado,Casa,24,6.594520547945206,3.0,8264.29
+25,2015-01-01,5043,F,False,True,0,Pensionista,Secundário,Viúvo,Casa,64,,1.0,3313.32
+26,2015-01-01,16032,M,True,True,2,Empresário,Superior completo,Casado,Casa,40,0.6273972602739726,4.0,4016.38
+27,2015-01-01,10295,F,True,True,0,Empresário,Secundário,Casado,Casa,50,19.30958904109589,2.0,4655.96
+28,2015-01-01,1912,F,False,True,1,Assalariado,Secundário,Viúvo,Casa,42,0.8356164383561644,2.0,5611.78
+29,2015-01-01,785,F,False,True,1,Empresário,Secundário,Casado,Casa,37,7.528767123287671,3.0,379.52
+30,2015-01-01,2514,F,False,True,0,Assalariado,Secundário,Separado,Casa,49,24.301369863013697,1.0,8715.76
+31,2015-01-01,10508,M,False,True,0,Empresário,Secundário,Solteiro,Com os pais,28,3.512328767123288,1.0,1055.21
+32,2015-01-01,6106,M,True,True,1,Assalariado,Superior incompleto,Casado,Casa,31,1.8301369863013703,3.0,1998.33
+33,2015-01-01,10043,F,False,True,0,Pensionista,Secundário,Solteiro,Casa,40,,1.0,1273.34
+34,2015-01-01,6539,F,False,True,0,Empresário,Secundário,Casado,Casa,50,1.747945205479452,2.0,8051.62
+35,2015-01-01,15235,F,False,True,0,Assalariado,Superior completo,Solteiro,Casa,54,7.958904109589041,1.0,6392.79
+36,2015-01-01,5785,M,False,True,0,Empresário,Secundário,Solteiro,Aluguel,51,4.3780821917808215,1.0,2557.77
+37,2015-01-01,3858,F,False,True,0,Pensionista,Secundário,Casado,Governamental,61,,2.0,5955.15
+38,2015-01-01,2103,F,False,True,0,Assalariado,Secundário,Casado,Casa,54,3.0904109589041098,2.0,2083.35
+39,2015-01-01,4457,F,False,False,0,Assalariado,Secundário,União,Com os pais,30,3.9287671232876713,2.0,856.31
+40,2015-01-01,1667,F,True,True,1,Empresário,Superior completo,Casado,Casa,45,7.315068493150685,3.0,2963.48
+41,2015-01-01,1248,M,True,True,0,Pensionista,Secundário,Casado,Casa,64,,2.0,32667.31
+42,2015-01-01,1044,F,True,True,1,Assalariado,Secundário,Casado,Casa,41,9.019178082191779,3.0,4082.3
+43,2015-01-01,1851,F,False,True,2,Assalariado,Secundário,Separado,Casa,40,6.594520547945206,3.0,3557.34
+44,2015-01-01,13066,F,False,True,0,Servidor público,Superior completo,Separado,Casa,45,25.356164383561644,1.0,25664.46
+45,2015-01-01,7153,F,False,True,0,Empresário,Superior completo,Casado,Casa,47,3.2931506849315073,2.0,699.19
+46,2015-01-01,14973,F,True,True,2,Empresário,Superior completo,Casado,Casa,37,17.361643835616437,4.0,8861.49
+47,2015-01-01,66,M,False,True,0,Assalariado,Secundário,Casado,Casa,51,17.194520547945206,2.0,22184.17
+48,2015-01-01,557,F,True,True,1,Assalariado,Superior completo,Separado,Casa,26,5.778082191780823,2.0,2990.66
+49,2015-01-01,6386,M,True,False,2,Empresário,Superior completo,Casado,Casa,39,13.0,4.0,10496.35
