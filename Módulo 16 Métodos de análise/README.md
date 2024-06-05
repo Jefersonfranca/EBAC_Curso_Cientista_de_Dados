@@ -4,7 +4,7 @@
 </div>
 
 # **Profissão: Cientista de Dados**
-### [**Projeto #02** | Previsão de renda](https://github.com/Jefersonfranca/EBAC_Curso_Cientista_de_Dados)<br>
+### [**Projeto #02** | Previsão de renda]([https://github.com/Jefersonfranca/Previs-o-de-Renda)<br>
 <div>
 
 **Jeferson França**   
