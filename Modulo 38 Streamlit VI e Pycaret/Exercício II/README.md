@@ -2,6 +2,8 @@
 
 Este projeto envolve o treinamento de um modelo de regressão logística e a criação de uma aplicação Streamlit para escorar novos dados com o modelo treinado. O pipeline de pré-processamento e o modelo são salvos em um arquivo `.pkl`, que pode ser carregado e utilizado pela aplicação Streamlit.
 
+[Clique aqui para acessar o app diretamente do Streamlit.](https://jeferson-pycaret-modelo-de-regressao-logistica.streamlit.app)
+
 ## Estrutura do Projeto
 
 - **train_and_save_model.py**: Script para treinar e salvar o modelo de regressão logística.
