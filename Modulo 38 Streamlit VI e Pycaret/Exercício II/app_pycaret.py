@@ -11,18 +11,14 @@ def load_model(model_file):
 
 # Função para fazer previsões
 def score_data(model, data):
-    # Verifica se o modelo é um classificador e tem o método predict_proba
-    if hasattr(model, 'predict') and hasattr(model, 'predict_proba'):
-        predictions = model.predict(data)
-        probabilities = model.predict_proba(data)[:, 1]
-        return predictions, probabilities
-    else:
-        raise ValueError("O modelo carregado não suporta 'predict' ou 'predict_proba'.")
+    predictions = model.predict(data)
+    probabilities = model.predict_proba(data)[:, 1]
+    return predictions, probabilities
 
 def main():
     st.title("Modelo de Regressão Logística")
 
-    st.write("Faça o upload do arquivo do modelo (.pkl) e do arquivo de dados (.csv) para escorar a base com o modelo treinado.")
+    st.write("Faça o upload do arquivo do modelo .pkl e do arquivo de dados .csv para escorar a base com o modelo treinado.")
 
     # Upload do arquivo do modelo
     model_file = st.file_uploader("Escolha um arquivo de modelo (.pkl)", type="pkl")
@@ -49,7 +45,7 @@ def main():
                 st.write("Probabilidades:")
                 st.write(probabilities)
 
-                # Salvar previsões em um novo arquivo CSV
+                # Se você quiser salvar as previsões em um novo arquivo CSV
                 result_df = data.copy()
                 result_df['Prediction'] = predictions
                 result_df['Probability'] = probabilities
@@ -62,7 +58,7 @@ def main():
                     mime='text/csv'
                 )
             except Exception as e:
-                st.error(f"Ocorreu um erro ao processar os dados: {e}")
+                st.error(f"Ocorreu um erro: {e}")
 
 if __name__ == "__main__":
     main()
