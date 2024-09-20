@@ -38,7 +38,7 @@ To run this analysis locally, follow these steps:
    ```
 2. Run the analysis notebook:
    ```bash
-   jupyter notebook analysis.ipynb
+   jupyter notebook Projetofinal.ipynb
    ```
 
 ## Conclusion
