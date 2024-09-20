@@ -46,13 +46,3 @@ The analysis provides valuable insights into the dynamics of illicit financial f
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-- Dataset: [Global Black Money Transactions Dataset](https://www.kaggle.com/datasets/waqi786/global-black-money-transactions-dataset)
-```
-
-### Instructions
-- Replace `yourusername` and `yourrepository` with your actual GitHub username and repository name.
-- You can also add or modify sections as needed.
-
-Feel free to use this template for your GitHub repository! Let me know if you need any changes or additions.
